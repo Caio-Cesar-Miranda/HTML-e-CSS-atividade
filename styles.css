@@ -1,0 +1,67 @@
+html{
+    font-family: sans-serif;
+}
+
+.Apresentacao h1 {
+    color: white;
+    background-color: #2F4F4F;
+    border-radius: 4px;
+}
+
+hr {
+    margin: 0;
+    border-top: 2px solid #000;
+    height: 5px;
+    background-color: #9ACD32;
+    border: none;
+}   
+
+.eaj-fachada {
+    background-color: #f3f3f3;
+    padding: 15px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.eaj-fachada img {
+    width: 100%;
+    height: auto;
+}
+
+.eaj-fachada figcaption {
+    color: #555;
+
+}
+
+.historico h2 {
+    margin-bottom: 1px;
+}
+
+.cursos h3 {
+    margin-bottom: 1px;
+}
+
+p {
+    margin: 1rem 1rem 1rem 0;
+}
+
+footer {
+    padding: 10px;
+    background-color: #2F4F4F;
+}
+
+address {
+    color: white;
+    line-height: 3px;
+}
+
+.UFRN {
+    text-align: center;
+    color: white;
+    line-height: 3px;
+}
+
