@@ -18,7 +18,7 @@ hr {
 
 .eaj-fachada {
     background-color: #f3f3f3;
-    padding: 15px;
+    padding: 10px 20px;
     border: 1px solid #ccc;
     display: inline-block;
     text-align: center;
@@ -50,8 +50,10 @@ p {
 }
 
 footer {
+    display: flex;
     padding: 10px;
     background-color: #2F4F4F;
+    justify-content: center;
 }
 
 address {
@@ -63,5 +65,11 @@ address {
     text-align: center;
     color: white;
     line-height: 3px;
+}
+
+.dev {
+    justify-content: space-evenly;
+    color: white;
+    text-align: right;
 }
 
